@@ -1,0 +1,2 @@
+﻿图灵机器人API Key ，申请地址：http://www.tuling123.com
+key=youApiKey
